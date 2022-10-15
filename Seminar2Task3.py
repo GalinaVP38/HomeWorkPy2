@@ -1,6 +1,3 @@
-from random import Random, random
-
-
 n = int(input("Введите число n:"))
 dict = {}
 sum = 0
